@@ -19,5 +19,5 @@ Bienvenido a **Beauty World**, una plataforma donde puedes listar, registrar, ac
 - **React Router**: Para manejar las rutas en la aplicación.
 - **CSS**: Para los estilos de la aplicación.
 
-## Uso
-Una vez que el servidor de desarrollo esté en funcionamiento, puedes acceder a la aplicación en tu navegador en la dirección http://localhost:3000. Desde allí, podrás interactuar con las diferentes funcionalidades de la plataforma para gestionar tus videos.
+## DEMO
+![Demo de Beauty World]()
