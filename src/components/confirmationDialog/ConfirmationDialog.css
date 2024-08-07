@@ -35,25 +35,25 @@
 }
 
 .confirmation-yes {
-    background-color: var(--color-blue);
+    background-color: var(--color-button-shadow);
     color: var(--color-white);
-    border: 1px solid var(--color-blue);
+    border: 1px solid var(--color-banner);
 }
 
 .confirmation-yes:hover {
     background-color: var(--color-gray-light);
-    color: var(--color-blue);
+    color: var(--color-banner);
 }
 
 .confirmation-no {
     background-color: var(--color-white);
     color: var(--color-light-gray);
-    border: 1px solid var(--color-blue);
+    border: 1px solid var(--color-banner);
 }
 
 .confirmation-no:hover {
     background-color: var(--color-gray-light);
-    color: var(--color-blue);
+    color: var(--color-banner);
 }
 
 @media (max-width: 768px) {
