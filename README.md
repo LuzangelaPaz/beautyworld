@@ -20,4 +20,4 @@ Bienvenido a **Beauty World**, una plataforma donde puedes listar, registrar, ac
 - **CSS**: Para los estilos de la aplicación.
 
 ## DEMO
-![Demo de Beauty World]()
+![beautyworld gif](https://github.com/user-attachments/assets/e6aeb971-9a48-44b0-823e-8331dcb9d035)
